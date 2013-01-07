@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/antigen/dev/twisted-trunk/doc/words/examples'
+let g:netrw_dirhist_2='/Users/antigen/dev/pep8.py'
+let g:netrw_dirhist_3='/Users/antigen/dev/rails-projects/sample_app/app/views/pages'
